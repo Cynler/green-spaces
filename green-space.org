@@ -1,0 +1,20 @@
+#+title: Green Space
+#+DATE: <06-19-2022>
+#+AUTHOR: Cynthia Lu
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdn.simplecss.org/simple-v1.css">
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS:
+
+* Greener Urban Identity
+** The Lack of Green Space impacts daily living
+- Due to shifting economic and environment pressures on American cities, the amount of green spaces in cities is diminished when it is historically needed the most.
+- In the face of climate change, cities need to strategically design green spaces to lower temperatures, improve air quality, and mitigate flooding.
+** Utilizing of Imagery
+- Using multiple sataelite images of google earth, identify patches of green space to train the model in style transfer.
+- Specifically learning the color/shape/patterns of green spaces to then apply onto other map images that lack greenery.
+** Envisioning a Greener Urban Landscape
+- By generating greenery unto other cities that low green spaces density and/or high heat island effects. Approaches to AI would be through:
+  - Style Transfer: Tests the style of greener images being placed into content images of urban images
+  - Pix2Pix: Using manually applied colors on a map to achieve the appearance of more greenery
+
+*
