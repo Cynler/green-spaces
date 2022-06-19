@@ -17,4 +17,3 @@
   - Style Transfer: Tests the style of greener images being placed into content images of urban images
   - Pix2Pix: Using manually applied colors on a map to achieve the appearance of more greenery
 
-*
